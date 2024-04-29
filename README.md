@@ -1,4 +1,4 @@
--> Primarily a low level programmer:
+-> Primarily a low level programmer and reverse engineer:
 blip blop
 
 
